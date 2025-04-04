@@ -10,7 +10,7 @@ DESIRED_RESOLUTION = "2160"
 FILE_EXTENSION = "mp4"
 
 # Set your download location here
-DOWNLOAD_LOCATION = ""
+DOWNLOAD_LOCATION = r""
 DOWNLOAD_LOCATION = DOWNLOAD_LOCATION.replace("\\", "/")
 # ===================================
 
